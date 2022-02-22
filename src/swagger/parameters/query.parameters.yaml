@@ -1,0 +1,6 @@
+parameters:
+  id_score:
+    name: id_score
+    in: query
+    type: string
+    description: identificador del score
